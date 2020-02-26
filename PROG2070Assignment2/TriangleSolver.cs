@@ -8,39 +8,31 @@ namespace PROG2070Assignment2
 {
     public static class TriangleSolver
     {
-        public static string Analyze(int a, int b, int c)
+        public static string Analyze(int sideA, int sideB, int sideC)
         {
-            bool formsTriangle = false;
+            string output;
 
-            StringBuilder output = new StringBuilder();
-
-            if ((a + b > c) && (a + c > b) && (b + c > a))
+            if ((sideA + sideB > sideC) && (sideA + sideC > sideB) && (sideB + sideC > sideA))
             {
-                formsTriangle = true;
-                output.AppendLine("The triangle can be formed");
-            }
-            else
-            {
-                formsTriangle = false;
-                output.AppendLine("The triangle cannot be formed ");
-            }
-
-            if (formsTriangle)
-            {
-                if (a == b && b == c)
+                output = "The triangle can be formed\n";
+                if (sideA == sideB && sideB == sideC)
                 {
-                    output.AppendLine("The triangle is Equilateral");
+                    output += "The triangle is Equilateral";
                 }
-                else if (a == b || a == c || b == c)
+                else if (sideA == sideB || sideA == sideC || sideB == sideC)
                 {
-                    output.AppendLine("The triangle is Isosceles");
+                    output += "The triangle is Isosceles";
                 }
                 else
                 {
-                    output.AppendLine("The triangle is Scalene");
+                    output += "The triangle is Scalene";
                 }
             }
-            return output.ToString();
+            else
+            {
+                output = "The triangle cannot be formed";
+            }
+            return output;
         }
     }
 }

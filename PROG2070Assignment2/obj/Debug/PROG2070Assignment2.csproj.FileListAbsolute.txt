@@ -5,3 +5,7 @@ C:\Users\denis\Desktop\Conestoga 2nd semester\Software Quality Assurance\Assignm
 C:\Users\denis\Desktop\Conestoga 2nd semester\Software Quality Assurance\Assignment2\PROG2070Assignment2\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\PROG2070Assignment2.pdb
 C:\Users\denis\Desktop\Conestoga 2nd semester\Software Quality Assurance\Assignment2\PROG2070Assignment2\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.exe
 C:\Users\denis\Desktop\Conestoga 2nd semester\Software Quality Assurance\Assignment2\PROG2070Assignment2\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.pdb
+C:\Users\denis\Desktop\Conestoga 2nd semester\Software Quality Assurance\Assignment2\PROG2070Assignment2\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\nunit.framework.dll
+C:\Users\denis\Desktop\Conestoga 2nd semester\Software Quality Assurance\Assignment2\PROG2070Assignment2\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\nunit.framework.pdb
+C:\Users\denis\Desktop\Conestoga 2nd semester\Software Quality Assurance\Assignment2\PROG2070Assignment2\PROG2070Assignment2\PROG2070Assignment2\bin\Debug\nunit.framework.xml
+C:\Users\denis\Desktop\Conestoga 2nd semester\Software Quality Assurance\Assignment2\PROG2070Assignment2\PROG2070Assignment2\PROG2070Assignment2\obj\Debug\PROG2070Assignment2.csproj.CopyComplete
